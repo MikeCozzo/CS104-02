@@ -1,3 +1,0 @@
-Helloworld
-Michaelcozzolino
-thisisversion2ofmyhelloworldprogram
